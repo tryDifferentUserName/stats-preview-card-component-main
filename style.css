@@ -108,5 +108,6 @@ html {
         rgb(179, 106, 224, 0.72)
       ),
       url("https://trydifferentusername.github.io/assets/image-header-desktop.jpg");
+    min-width: 35%;
   }
 }
