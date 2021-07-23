@@ -33,7 +33,7 @@ html {
       rgb(179, 106, 224, 0.72),
       rgb(179, 106, 224, 0.72)
     ),
-    url("/images/image-header-mobile.jpg");
+    url("https://trydifferentusername.github.io/assets/image-header-mobile.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 5px 5px 0 0;
@@ -107,6 +107,6 @@ html {
         rgb(179, 106, 224, 0.72),
         rgb(179, 106, 224, 0.72)
       ),
-      url("/images/image-header-desktop.jpg");
+      url("https://trydifferentusername.github.io/assets/image-header-desktop.jpg");
   }
 }
