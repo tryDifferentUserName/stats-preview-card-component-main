@@ -102,4 +102,11 @@ html {
     justify-content: space-around;
     padding-right: 12rem;
   }
+  .preview-card__img {
+    background: linear-gradient(
+        rgb(179, 106, 224, 0.72),
+        rgb(179, 106, 224, 0.72)
+      ),
+      url("/images/image-header-desktop.jpg");
+  }
 }
